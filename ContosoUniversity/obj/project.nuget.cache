@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7llsNpSGNirhqmaSRU0agWQ/5k9d/XJpah/SQxgUCwi3LGulvqYPMi3jmUsabYt8DVyrT7LuvMqSjzZ9UJ7WFg==",
+  "dgSpecHash": "AhyjVKmHzBGEqa/iBz/UvqGoVrtAnf0KUTBjin2n4TD7hF0j8ip9tzS5qzh2rNUHFduoJ/M0ypvWHQ898XFhjw==",
   "success": true,
   "projectFilePath": "E:\\C#\\ASP.NET Core Start\\RazorPages-with-EF-Core-in-ASP.NET-Core\\ContosoUniversity\\ContosoUniversity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yordan Rashkov\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Yordan Rashkov\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.0-rc.2.20475.17\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.0-rc.2.20475.17.nupkg.sha512",
     "C:\\Users\\Yordan Rashkov\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Yordan Rashkov\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\Yordan Rashkov\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.0\\microsoft.aspnetcore.razor.language.5.0.0.nupkg.sha512",
