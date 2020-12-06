@@ -58,7 +58,7 @@ namespace ContosoUniversity.Pages.Students
                 s => s.EnrollmentDate))
             {
                 await _context.SaveChangesAsync();
-                return RedirectToPage("/Index");
+                return RedirectToPage("./Index");
             }
 
             return Page();
