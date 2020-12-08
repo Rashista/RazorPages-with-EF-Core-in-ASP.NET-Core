@@ -39,7 +39,7 @@ namespace ContosoUniversity.Pages.Students
                 s => s.LastName,
                 s => s.EnrollmentDate))
             {
-                _context.Students.Add(Student);
+                _context.Students.Add(emptyStudent);
                 await _context.SaveChangesAsync();
                 return RedirectToPage("./Index");
             }
