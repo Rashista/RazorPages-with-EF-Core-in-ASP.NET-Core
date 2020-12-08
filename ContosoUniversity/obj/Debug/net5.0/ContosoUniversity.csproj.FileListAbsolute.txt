@@ -169,3 +169,4 @@ E:\C#\ASP.NET Core Start\RazorPages-with-EF-Core-in-ASP.NET-Core\ContosoUniversi
 E:\C#\ASP.NET Core Start\RazorPages-with-EF-Core-in-ASP.NET-Core\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Details.cshtml.g.cs
 E:\C#\ASP.NET Core Start\RazorPages-with-EF-Core-in-ASP.NET-Core\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Edit.cshtml.g.cs
 E:\C#\ASP.NET Core Start\RazorPages-with-EF-Core-in-ASP.NET-Core\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Index.cshtml.g.cs
+E:\C#\ASP.NET Core Start\RazorPages-with-EF-Core-in-ASP.NET-Core\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\About.cshtml.g.cs
