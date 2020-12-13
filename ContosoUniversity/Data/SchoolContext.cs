@@ -9,7 +9,7 @@ namespace ContosoUniversity.Data
 {
     public class SchoolContext : DbContext
     {
-        public SchoolContext (DbContextOptions<SchoolContext> options)
+        public SchoolContext(DbContextOptions<SchoolContext> options)
             : base(options)
         {
         }
@@ -39,6 +39,11 @@ namespace ContosoUniversity.Data
                 .HasOne(d => d.Administrator)
                 .WithMany()
                 .OnDelete(DeleteBehavior.Restrict);
+
+            // This is alternative way to asign Timestamp attribute for concurrency tracking
+            //modelBuilder.Entity<Department>()
+            //    .Property<byte[]>("RowVersion")
+            //    .IsRowVersion();
         }
     }
 }
